@@ -1,8 +1,9 @@
 - ❤️ To be without some of the things you want is an indispensable part of happiness
+- ❤️ 参差多态是幸福的本源
 - 👋 This is Ethan Gu, appreciation for being in the same universe with you
-- 💻 Currently interested in data processing with R
-- 📫 Contact me at guyizhan33@gmail at any time
+- 💻 Currently PhD student @UCSD
 - 🏫 Undergraduate at Harbin Institute of Technology
+- 📫 Contact me at guyizhan33@gmail at any time
 - 💪 Keep on learning
 
 
