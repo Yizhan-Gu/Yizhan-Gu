@@ -1,7 +1,7 @@
 - ❤️ To be without some of the things you want is an indispensable part of happiness
-- 👋 This is Ethan Gu, appreciation for being in the same universe with you
-- 💻 Currently PhD student @UCSD
-- 🏫 Undergraduate at Harbin Institute of Technology
+- 👋 This is Yizhan Gu, appreciation for being in the same universe with you
+- 💻 Currently PhD student at UCSD
+- 🏫 Bachelor of Engineering at Harbin Institute of Technology
 - 📫 Contact me at guyizhan33@gmail at any time
 - 💪 Keep on learning
 
